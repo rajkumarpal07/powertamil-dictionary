@@ -28,6 +28,9 @@ Building on windows 10:
 
 3.Use VSCode IDE to compile and run `PTDictionary.py` file.
 
+# Screenshot
+![Power Tamil Dictionary screenshot](https://imgur.com/iOBIOAw.png)
+
 # Other information
 The words in the dictionary may have an ambiguous, figurative or meaning other than widespread use. Also, the dictionary is seeded with the contents of AgaraMuthali as a starter.
 

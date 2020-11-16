@@ -18,9 +18,14 @@ Supervised by
     [Prof. Kondal S.Mahadevan]()
 
 # Build
+Building on windows 10:
 
+1.Install Qt for Python.
 
+2.Use pip to install PySide2 and its dependency Shiboken2(Python binding generator).
+    pip install PySide2
 
+3.Use VSCode IDE to compile and run the PTDictionary.py file.
 
 # Other information
 The words in the dictionary may have an ambiguous, figurative or meaning other than widespread use. Also, the dictionary is seeded with the contents of AgaraMuthali as a starter.

@@ -31,14 +31,14 @@ Building on windows 10:
 # Other information
 The words in the dictionary may have an ambiguous, figurative or meaning other than widespread use. Also, the dictionary is seeded with the contents of AgaraMuthali as a starter.
 
-Anyone can take part in the compilation of the dictionary. You can suggest a new term, open a meaning discussion, or simply correct a mistake or inaccuracy by opening an issue.
+Anyone can take part in the compilation of this dictionary. You can suggest a new term, open a meaning discussion, or simply correct a mistake or inaccuracy by opening an issue.
 
 
 # Compiling a dictionary
-There are two ways to get involved in building a frontend dictionary:
+There are two ways to get involved in building a Tamil dictionary:
 
-    1.Suggest a new term for translation
-    2.Suggest a better translation of an existing term.
+    1.Suggest a new term
+    2.Suggest a better meaning of an existing term.
 
 Any of these actions is best done using a pull request, but you can just start a task with discussion. Until there is a clear approach to the design of a dictionary entry, formulate new terms based on existing examples.
 

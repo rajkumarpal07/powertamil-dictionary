@@ -4,7 +4,7 @@ The 63,000+ words and their meanings in a Tamil to Tamil Dictionary.
 
 [![License](https://img.shields.io/:license-mit-blue.svg)](./LICENSE.md)
 
-The Tamil-Tamil AgaraMuthali (also known as Agaramuthali) is a public domain pronouncing dictionary created by Tamilnadu Textbook Society, Chennai. It defines a mapping from Tamil words to their Tamil meanings, and is commonly used in Natural Language Processing applications.
+The Tamil-Tamil AgaraMuthali (also known as Agaramuthali) is a public domain Tamil dictionary created by Tamilnadu Textbook Society, Chennai. It defines a mapping from Tamil words to their Tamil meanings, and is commonly used in Natural Language Processing applications.
 
 
 Crawled from http://www.tamilvu.org/library/ldttam/html/ldttamin.htm
@@ -16,6 +16,7 @@ Supervised by
     [Prof. A.S.GnanaSambhandam](),
     [Prof. A.M.ParamaSivanandham](),
     [Prof. Kondal S.Mahadevan]()
+
 
 # Build
 Building on windows 10:
@@ -30,7 +31,7 @@ Building on windows 10:
 # Other information
 The words in the dictionary may have an ambiguous, figurative or meaning other than widespread use. Also, the dictionary is seeded with the contents of AgaraMuthali as a starter.
 
-Anyone can take part in the compilation of the dictionary. You can suggest a new term, open a translation discussion, or simply correct a mistake or inaccuracy by opening an issue.
+Anyone can take part in the compilation of the dictionary. You can suggest a new term, open a meaning discussion, or simply correct a mistake or inaccuracy by opening an issue.
 
 
 # Compiling a dictionary

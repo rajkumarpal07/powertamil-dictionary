@@ -9,7 +9,7 @@ The Tamil-Tamil AgaraMuthali (also known as Agaramuthali) is a public domain Tam
 
 Crawled from [www.tamilvu.org](http://www.tamilvu.org/library/ldttam/html/ldttamin.htm)
 
-AgaraMuthali is authored by :<br>
+AgaraMuthali was authored by :<br>
     **[M.Shanmugam Pillai]()**
 
 Supervised by :<br>

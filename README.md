@@ -1,4 +1,4 @@
-# powertamil
+# powertamil-dictionary
 
 The 63,000+ words and their meanings in a Tamil to Tamil Dictionary.
 
